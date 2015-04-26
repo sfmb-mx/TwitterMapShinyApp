@@ -1,6 +1,6 @@
 <div class="abstract">
 The purpose of this document it is to describe the use of this easy
-web application.
+web application. **Part of this code is a fork from Jeff Leek work.**
 
 </div>
 
