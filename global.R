@@ -7,9 +7,9 @@
 ## Created: Sat Apr 25 23:15:16 2015 (-0500)
 ## Version: 
 ## Package-Requires: ()
-## Last-Updated: Sat Apr 25 23:18:32 2015 (-0500)
+## Last-Updated: Sun Apr 26 15:49:54 2015 (-0500)
 ##           By: Sergio-Feliciano Mendoza-Barrera
-##     Update #: 3
+##     Update #: 4
 ## URL: 
 ## Doc URL: 
 ## Keywords: 
@@ -72,10 +72,10 @@ plotMap <- function(userName = "mitxalumni", userSelectLocation = "Boston", widt
         ## http://thinktostart.wordpress.com/2013/05/22/twitter-authentification-with-r/
 
         ## MITXAlumni twitteR account read only access
-        consumer_key <- "Sscgaum5T49aip7S0xiZJe55x"
-        consumer_secret <- "QYtxfsAraaA8tMFASsYq6vCeX8MdcCHpuk0aOjD5C3CbNmhzFN"
-        access_token <- "2596627068-ACzqBZtIhNj1FYRwn0nU6Yauj33vfL9PF802GGV"
-        access_secret <- "pRI4Wxhq66gJGOUDpcdUUz5giczwsvhHVqf48XPhSzbQs"
+        consumer_key <- "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        consumer_secret <- "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        access_token <- "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        access_secret <- "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
         ## getOption("httr_oauth_cache")
         options(httr_oauth_cache = FALSE)
